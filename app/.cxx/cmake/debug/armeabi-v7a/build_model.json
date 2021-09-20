@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox",
+      "sdkFolder": "C:\\Tools\\APPData\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app",
+      "makeFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\.cxx",
+      "cxxFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx",
+      "ndkFolder": "C:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+  "jsonFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a",
+  "buildCommandFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\compile_commands.json"
+}

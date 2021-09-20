@@ -1,0 +1,5 @@
+# ninja log v5
+1	1136	653504791	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	b7f9a47e53602f47
+110	1226	653504791	CMakeFiles/ncnnyolox.dir/ndkcamera.cpp.o	652912708847cb87
+56	1322	653504791	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	f590ed3f1a1eef34
+1322	2044	653504792	D:/cv/YOLOX  Android mobile phone deployment/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libncnnyolox.so	429115cec60022a2

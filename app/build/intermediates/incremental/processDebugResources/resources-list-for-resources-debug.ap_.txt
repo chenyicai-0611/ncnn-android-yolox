@@ -1,0 +1,1 @@
+C:\Tools\ncnn-android-yolox\app\build\intermediates\res\merged\debug\layout_image_select.xml.flat C:\Tools\ncnn-android-yolox\app\build\intermediates\res\merged\debug\layout_main.xml.flat C:\Tools\ncnn-android-yolox\app\build\intermediates\res\merged\debug\values_values.arsc.flat 

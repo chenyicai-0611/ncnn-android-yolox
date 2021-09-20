@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Debug-armeabi-v7a": {
+      "artifactName": "ncnnyolox",
+      "buildCommand": "C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" ncnnyolox",
+      "abi": "armeabi-v7a",
+      "output": "D:\\cv\\YOLOX  Android mobile phone deployment\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libncnnyolox.so"
+    }
+  }
+}
